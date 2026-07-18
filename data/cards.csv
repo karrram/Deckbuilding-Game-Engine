@@ -1,0 +1,8 @@
+Name,Cost,Value,Type
+Strike,1,5,Attack
+Heavy Blow,2,14,Attack
+Quick Slash,0,4,Attack
+Iron Core,1,8,Defense
+Active Recovery,2,10,Heal
+The Twist,4,45,Ultimate
+Pure Adrenaline,1,5,Skill
